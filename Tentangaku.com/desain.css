@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    font: message-box bold arial;
+}
+
+#kep {
+    background: red;
+    border: 3px solid black;
+    padding: 20px;}
+
+.intr{
+    font: bold 20px calibri;
+}
+
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: crimson;
+}
+
+#badan {
+    background-color: crimson;
+}
+
+#navigasi {
+    background: gray;
+    color: white;
+}
+
+#navigasi li {
+    display: inline-block;
+    list-style: none;
+    padding: 5px;
+    font: bold 17px Calibri;
+}
+
+#navigasi li:hover {
+    background-color:black;}
+
+#kaki{
+    margin: 20px 0px 70px 0px;
+    background: red;
+    color: #ffffff;
+    text-align: left;
+    width: 400px;
+    height: 120px;
+}
